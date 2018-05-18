@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Author]
+(
+	[AuthorID] NVARCHAR(5) NOT NULL PRIMARY KEY,
+	[FirstName] NVARCHAR(30) NOT NULL,
+	[LastName] NVARCHAR(30) NOT NULL,
+	[taxFileNumber] INT NOT NULL
+)
+

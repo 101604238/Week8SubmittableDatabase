@@ -1,0 +1,16 @@
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Week 8 - Databases\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.dacpac
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Week 8 - Databases\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.dll
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Week 8 - Databases\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.pdb
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Week 8 - Databases\SQLDatabase\SQLDatabase\obj\Debug\SQLDatabase.sqlprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Week 8 - Databases\SQLDatabase\SQLDatabase\obj\Debug\SQLDatabase.dll
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Week 8 - Databases\SQLDatabase\SQLDatabase\obj\Debug\SQLDatabase.pdb
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Week 8 - Databases\SQLDatabase\SQLDatabase\obj\Debug\Model.xml
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Week 8 - Databases\SQLDatabase\SQLDatabase\obj\Debug\refactor.xml
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Week 8 - Databases\SQLDatabase\SQLDatabase\obj\Debug\postdeploy.sql
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Week 8 - Databases\SQLDatabase\SQLDatabase\obj\Debug\predeploy.sql
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 8 (27.04)\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.dacpac
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 8 (27.04)\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.dll
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 8 (27.04)\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.pdb
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 8 (27.04)\SQLDatabase\SQLDatabase\obj\Debug\SQLDatabase.sqlprojResolveAssemblyReference.cache
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 8 (27.04)\SQLDatabase\SQLDatabase\obj\Debug\SQLDatabase.dll
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 8 (27.04)\SQLDatabase\SQLDatabase\obj\Debug\SQLDatabase.pdb

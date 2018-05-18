@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Author]
+       [dbo].[Book]
+       [dbo].[Student]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column AuthorID in table [dbo].[Author] is currently  NVARCHAR (30) NOT NULL but is being changed to 
+         NVARCHAR (5) NOT NULL. Data loss could occur.
+       The column [dbo].[Book].[Published] is being dropped, data loss could occur.
+       The type for column AuthorID in table [dbo].[Book] is currently  NVARCHAR (30) NOT NULL but is being changed to 
+         NVARCHAR (5) NOT NULL. Data loss could occur.
+       The type for column ISBN in table [dbo].[Book] is currently  NVARCHAR (20) NOT NULL but is being changed to  NVARCHAR
+         (17) NOT NULL. Data loss could occur.
+       The type for column StudentID in table [dbo].[Student] is currently  NVARCHAR (20) NOT NULL but is being changed to 
+         NVARCHAR (9) NOT NULL. Data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[Author] (Table)
+       [dbo].[Book] (Table)
+       [dbo].[Student] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[Fk_Book] (Foreign Key)
+     Create
+       [dbo].[Fk_Book] (Foreign Key)
+
+The type for column AuthorID in table [dbo].[Author] is currently  NVARCHAR (30) NOT NULL but is being changed to  NVARCHAR (5) NOT NULL. Data loss could occur.
+The column [dbo].[Book].[Published] is being dropped, data loss could occur.
+The type for column AuthorID in table [dbo].[Book] is currently  NVARCHAR (30) NOT NULL but is being changed to  NVARCHAR (5) NOT NULL. Data loss could occur.
+The type for column ISBN in table [dbo].[Book] is currently  NVARCHAR (20) NOT NULL but is being changed to  NVARCHAR (17) NOT NULL. Data loss could occur.
+The type for column StudentID in table [dbo].[Student] is currently  NVARCHAR (20) NOT NULL but is being changed to  NVARCHAR (9) NOT NULL. Data loss could occur.
+
